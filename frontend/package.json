@@ -1,0 +1,8 @@
+{
+  "name": "llm-chatbot-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx -y serve . -l 5173 --cors"
+  }
+}
